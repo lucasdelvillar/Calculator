@@ -10,7 +10,7 @@ Calculator web app. Functions exactly like a calculator. Lets you see the previo
 **Tech used:** HTML, CSS, JavaScript
 
 Calculator is represented as a JavaScript object. Calculator has two properties and variety of methods to update the calculator as needed. 
-HTML5 "data-" attribute used for better categorization of elements. 
+HTML "data-" attribute used for categorization of elements. 
 
 ## Lessons Learned:
 
