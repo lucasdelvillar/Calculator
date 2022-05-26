@@ -14,6 +14,6 @@ HTML "data-" attribute used for categorization of elements.
 
 ## Lessons Learned:
 
-OOP is a great way to group data and functionality together. It makes code cleaner, drier, easier to read, and update. 
+OOP is a great way to group data and functionality together. It makes code cleaner, drier, easier to read and update. 
 
 The "data-" attribute is useful when you need to create a custom group / name for elements. This is outdated however with the availability of other front-end frameworks.
